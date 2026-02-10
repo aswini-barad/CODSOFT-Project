@@ -1,5 +1,3 @@
-💼 CodSoft Internship Projects
-📌 Overview
+This repository contains the projects completed during my Virtual Web Development Internship at CodeSoft. The internship focused on building frontend web applications using HTML, CSS, and JavaScript, with emphasis on clean UI design, responsiveness, and interactive user experiences.
 
-This repository contains mini projects developed during the CodSoft internship.
-The projects focus on front-end web development and are built using HTML, CSS, and JavaScript to strengthen practical skills and real-world problem solving.
+The projects helped strengthen my understanding of core web development concepts and practical implementation of real-world frontend features.
